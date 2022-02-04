@@ -1,0 +1,10 @@
+<resources>
+    <string name="app_name">CRUD Peminjaman Buku_Agi</string>
+    <string name="nama_siswa">Nama Siswa</string>
+    <string name="nis">Nis</string>
+    <string name="judul_buku">Judul Buku</string>
+    <string name="kode_buku">Kode Buku</string>
+    <string name="tanggal_pinjam">Tanggal Pinjam</string>
+    <string name="tanggal_kembali">Tanggal Kembali</string>
+    <string name="tambah_pinjaman">Tambah Pinjaman</string>
+</resources>

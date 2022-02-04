@@ -1,0 +1,2 @@
+rootProject.name = "CRUD Peminjaman Buku_Agi"
+include ':app'
